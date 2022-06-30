@@ -11,7 +11,7 @@ build: (npm 'install')
 
 install: build
   mkdir -p ~/.local/bin
-  cp ./src-tauri/target/release/msx-tinysprite ~/.local/bin/msx-tinysprite
+  cp ./src-tauri/target/release/msx-bitz80 ~/.local/bin/msx-bitz80
 
 npm *ARGS:
   npm {{ARGS}}

@@ -1,4 +1,4 @@
-# tinysprite
+# BiT =]
 
 [bit](http://msx.jannone.org/bit/) is an html z80 assembler editor editor
 written by Rafael Jannone. this is a friendly fork which attempts to bundle
@@ -14,7 +14,7 @@ git clone git@github.com:jfhbrook/msx-bitz80.git
 
 ## install it
 
-to build tinysprite and put it at `~/.local/bin/msx-bitz80`, run:
+to build bit and put it at `~/.local/bin/msx-bitz80`, run:
 
 ```sh
 just install
