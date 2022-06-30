@@ -1,0 +1,12 @@
+{
+  "name": "msx-bitz80",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^1.0.1"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.0.1"
+  }
+}
